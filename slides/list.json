@@ -1,0 +1,28 @@
+[
+  {
+    "filename": "1index.md",
+    "attr": {
+      "data-background": "#b36453"
+    }
+  },
+  {
+    "filename": "2country.md",
+    "attr": {
+      "data-background": "../resources/media/black-mountain.jpg"
+    }
+  },
+  [
+    "3me.html",
+    "4me2.html"
+  ],
+  "5contents.html",
+  "6tldr.html",
+  [
+    "./lit review/7litReview.html",
+    "./lit review/8mediaMyth.html",
+    "./lit review/9a_SignalLoss.html",
+    "./lit review/9b_Futurism.html",
+    "./lit review/9c_AfroFuturism.html",
+    "./lit review/9d_IndigenousFuturism.html"
+  ]
+]
