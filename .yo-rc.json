@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "confirmation of candidature",
+    "packageVersion": "0.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "MattHeffNT",
+    "githubRepository": "confirmation"
+  }
+}
